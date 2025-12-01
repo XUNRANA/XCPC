@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"c:\\Users\\xunra\\Desktop\\06.15\\A.cpp","tests":[{"id":1749970862855,"input":"3\nabc abc\nabc acb\naba cba","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\xunra\\Desktop\\06.15\\A.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\XCPC\\04.28 2021哈尔滨\\E.cpp","tests":[{"id":1745849473581,"input":"3\n5\n1 2 4 1 2\n5\n1 2 4 8 16\n5\n1 2 4 0 1\n","output":"7\n-1\n-1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\XCPC\\04.28 2021哈尔滨\\E.cpp","group":"local","local":true}

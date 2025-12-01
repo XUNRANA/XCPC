@@ -1,0 +1,1 @@
+{"name":"Local: 1001","url":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\HDU\\0314\\1001.cpp","tests":[{"id":1743465987675,"input":"2\n3 2\n5 6 15\n0\n3\n3 2\n5 6 15\n7\n16","output":"4\n6744073707654140"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\HDU\\0314\\1001.cpp","group":"local","local":true}

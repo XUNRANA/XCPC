@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\睿抗\\2021高职复赛\\C.cpp","tests":[{"id":1751349781949,"input":"2 3\n1120\n21140\n34120\n0\n110\n21111340\n","output":"4 6 2\n0 3 1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\睿抗\\2021高职复赛\\C.cpp","group":"local","local":true}

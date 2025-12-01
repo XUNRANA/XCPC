@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"c:\\Users\\xunra\\Desktop\\XCPC\\2024\\Atcoder\\25.08.09 ABC418\\C.cpp","tests":[{"id":1754754150124,"input":"4 5\n4 1 8 4\n1\n8\n5\n2\n10\n","output":"1\n17\n14\n5\n-1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\xunra\\Desktop\\XCPC\\2024\\Atcoder\\25.08.09 ABC418\\C.cpp","group":"local","local":true}

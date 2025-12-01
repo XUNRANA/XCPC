@@ -1,0 +1,1 @@
+{"name":"Local: I","url":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\XCPC\\04.13 2025年中国传媒大学程序设计大赛\\I.cpp","tests":[{"id":1746630816610,"input":"2\n3 3 4 4\n3 4 3 4","output":"7\n500000007\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\XCPC\\04.13 2025年中国传媒大学程序设计大赛\\I.cpp","group":"local","local":true}

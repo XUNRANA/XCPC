@@ -1,0 +1,1 @@
+{"name":"Local: 1032","url":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\PAT (Basic Level) Practice\\1032.cpp","tests":[{"id":1743572976126,"input":"6\n3 65\n2 80\n1 100\n2 70\n3 40\n3 0\n","output":"2 150\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\PAT (Basic Level) Practice\\1032.cpp","group":"local","local":true}

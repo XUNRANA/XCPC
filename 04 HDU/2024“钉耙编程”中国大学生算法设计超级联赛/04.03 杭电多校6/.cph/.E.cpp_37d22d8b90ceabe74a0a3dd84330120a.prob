@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\XCPC\\04.03\\E.cpp","tests":[{"id":1743680897921,"input":"2\n2 3 114514\n+-0\n+++\n3 2 2\n-0\n00\n00\n","output":"AAA 1\nBBB 1\nBCA 1\nCAB 1\nAA 0\nCA 0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\XCPC\\04.03\\E.cpp","group":"local","local":true}
