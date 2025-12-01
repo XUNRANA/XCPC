@@ -1,0 +1,1 @@
+{"name":"Local: L3-2","url":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\天梯赛\\0419 2025天梯赛\\L3-2.cpp","tests":[{"id":1745327666336,"input":"3 3\n2 5 7\n9 4 1\n3 6 8","output":"26 55 91\n99 32 11\n39 66 104\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\天梯赛\\0419 2025天梯赛\\L3-2.cpp","group":"local","local":true}

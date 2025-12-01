@@ -1,0 +1,1 @@
+{"name":"Local: G","url":"c:\\Users\\xunra\\Desktop\\XCPC\\2024\\Codeforces\\790 div4\\G.cpp","tests":[{"id":1745683195658,"input":"3\n7\n1 1 2 3 3 5\nWBBWWBW\n2\n1\nBW\n8\n1 2 3 4 5 6 7\nBWBWBWBW\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\xunra\\Desktop\\XCPC\\2024\\Codeforces\\790 div4\\G.cpp","group":"local","local":true}

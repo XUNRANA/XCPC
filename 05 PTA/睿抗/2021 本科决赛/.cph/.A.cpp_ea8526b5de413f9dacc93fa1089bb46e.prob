@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\睿抗\\2021本科决赛\\A.cpp","tests":[{"id":1751336865929,"input":"14 5\n2 1 1 4 3 5 2 6 -1 4 0 2 -1 0\n","output":"0 0\n2 1\n5 3\n6 -1\n2 0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\睿抗\\2021本科决赛\\A.cpp","group":"local","local":true}

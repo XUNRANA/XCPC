@@ -1,0 +1,1 @@
+{"name":"Local: F","url":"c:\\Users\\xunra\\Desktop\\XCPC\\2024\\Codeforces\\1045 div3\\F.cpp","tests":[{"id":1759393328059,"input":"5\n3 2\n1 1\n5 3\n2 4\n11 4\n","output":"3\n2\n4\n7\n10\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\xunra\\Desktop\\XCPC\\2024\\Codeforces\\1045 div3\\F.cpp","group":"local","local":true}

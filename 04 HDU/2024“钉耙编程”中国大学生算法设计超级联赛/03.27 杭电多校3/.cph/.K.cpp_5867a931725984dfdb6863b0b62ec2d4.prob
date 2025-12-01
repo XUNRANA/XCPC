@@ -1,0 +1,1 @@
+{"name":"Local: K","url":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\XCPC\\03.27\\K.cpp","tests":[{"id":1743080538179,"input":"5\n0 2 E\n0 6 S\n2 0 N\n2 6 S\n4 4 W","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\XCPC\\03.27\\K.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: F","url":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\XCPC\\04.02 杭电多校5\\F.cpp","tests":[{"id":1743557210015,"input":"4\n1 1 1\n1 2 1\n1 2 3\n8 9 10","output":"NO\nYES\nYES\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\XCPC\\04.02 杭电多校5\\F.cpp","group":"local","local":true}

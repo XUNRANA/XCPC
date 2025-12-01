@@ -1,0 +1,1 @@
+{"name":"Local: MC0320","url":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\码蹄杯\\MC0320.cpp","tests":[{"id":1751704521598,"input":"5\n1\n1\n2\n01\n3\n100\n4\n1001\n5\n11111","output":"1\n3\n4\n8\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\码蹄杯\\MC0320.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"e:\\XCPC\\2025 ICPC Nanjing\\C.cpp","tests":[{"id":1763547204010,"input":"3\n 1\n 6\n 7","output":"No\n Yes\n 3 3\n No"},{"id":1763547385169,"input":"1\n2","output":"Yes\n1 1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\XCPC\\2025 ICPC Nanjing\\C.cpp","group":"local","local":true}

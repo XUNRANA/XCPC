@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"c:\\Users\\xunra\\Desktop\\XCPC\\2024\\Codeforces\\Edu 158\\B.cpp","tests":[{"id":1749119709217,"input":"4\n4\n1 2 2 1\n5\n1 0 1 0 1\n5\n5 4 3 2 1\n1\n12","output":"1\n2\n4\n11\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\xunra\\Desktop\\XCPC\\2024\\Codeforces\\Edu 158\\B.cpp","group":"local","local":true}

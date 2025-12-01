@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\XCPC\\04.20 码蹄集周赛\\C.cpp","tests":[{"id":1745151163644,"input":"5\n1 2 3 4 5","output":"3"},{"id":1745151303985,"input":"3\n40 46 90","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\XCPC\\04.20 码蹄集周赛\\C.cpp","group":"local","local":true}

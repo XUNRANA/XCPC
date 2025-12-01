@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"c:\\Users\\xunra\\Desktop\\0824\\C.cpp","tests":[{"id":1756015770947,"input":"3\n5 10\n10 10 4 10 6\n5 10\n1 1 1 1 1\n5 10\n2 2 3 2 2","output":""},{"id":1756015774317,"input":"1\n1 1\n999999999","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\xunra\\Desktop\\0824\\C.cpp","group":"local","local":true}

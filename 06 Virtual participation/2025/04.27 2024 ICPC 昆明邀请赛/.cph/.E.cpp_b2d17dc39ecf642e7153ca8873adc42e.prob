@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\XCPC\\04.27 昆明邀请赛\\E.cpp","tests":[{"id":1745727759580,"input":"2\n6 2\n5 3 13 8 10 555\n3 0\n3 6 9\n","output":"5\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\XCPC\\04.27 昆明邀请赛\\E.cpp","group":"local","local":true}

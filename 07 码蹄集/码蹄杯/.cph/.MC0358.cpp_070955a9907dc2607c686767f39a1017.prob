@@ -1,0 +1,1 @@
+{"name":"Local: MC0358","url":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\码蹄杯\\MC0358.cpp","tests":[{"id":1751775847675,"input":"8 12\n1 2 3 4 5 6 2 1\n1 2\n1 3\n2 5\n2 4\n4 2\n5 2\n5 4\n6 3\n7 3\n7 6\n8 4\n8 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\xunra\\Desktop\\XCPC\\2025\\码蹄杯\\MC0358.cpp","group":"local","local":true}
