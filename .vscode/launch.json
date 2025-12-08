@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/XCPC/2025 CCPC Nanchang",
-      "program": "e:/XCPC/2025 CCPC Nanchang/build/Debug/outDebug",
+      "cwd": "e:/XCPC/06 Virtual participation/2025/12.06",
+      "program": "e:/XCPC/06 Virtual participation/2025/12.06/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
