@@ -1,0 +1,1 @@
+{"name":"Local: 10","url":"c:\\Users\\xunra\\Desktop\\04.18 天梯赛\\10.cpp","tests":[{"id":1776493152357,"input":"10\n87 91 65 72 95 84 77 95 91 85\n3\n87\n75\n95\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\xunra\\Desktop\\04.18 天梯赛\\10.cpp","group":"local","local":true}

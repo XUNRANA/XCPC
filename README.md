@@ -1,126 +1,254 @@
-# 🚀 XCPC - Algorithm Competition Archive
+# 🏆 XCPC
 
-![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B)
-![IDE](https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
-![Repo Size](https://img.shields.io/github/repo-size/XUNRANA/XCPC?style=flat-square)
+<div align="right">
 
-## 📖 简介 (Introduction)
+**English** | [简体中文](README_zh-CN.md)
 
-> **Welcome to the world of algorithms!** 🌏
+</div>
 
-这里是 **[XUNRANA]** 的算法竞赛代码仓库。
-本项目记录了我的算法刷题之路，包含了在各大 OJ (Online Judge) 上的解题代码、比赛复盘以及个人整理的算法模板。
+<div align="center">
 
-主要包含 **C++** 实现的算法代码，面向 **ICPC/CCPC/Codeforces** 等算法竞赛。
+![Language](https://img.shields.io/badge/Language-C%2B%2B%2017-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Solutions](https://img.shields.io/badge/Solutions-4232-blueviolet?style=for-the-badge)
+![Templates](https://img.shields.io/badge/Templates-45-orange?style=for-the-badge)
+![Platforms](https://img.shields.io/badge/Platforms-10%2B-green?style=for-the-badge)
+![IDE](https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/XUNRANA/XCPC?style=for-the-badge)
 
-## 📂 目录结构 (Directory Structure)
+**A comprehensive competitive programming solution & template repository for ICPC / CCPC / LanQiao Cup / GPLT and more.**
 
-仓库目前按照 OJ 平台及比赛类型进行分类归档：
+Organized by platform, contest, and topic — featuring **4,200+** solutions and **45** curated algorithm templates for review, retrieval, and reuse.
 
-# 🚀 XCPC - 算法竞赛代码仓库
+</div>
 
-![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B)
-![IDE](https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
+---
 
-## 📖 项目简介
+## 📊 Overview
 
-`XCPC` 是作者用于记录算法练习与比赛解题的仓库，主要保存来自 Codeforces、Atcoder、Luogu、HDU 等平台的题解代码与个人模板。仓库以平台/比赛/题目为单位分类，方便复盘与检索。
+<div align="center">
 
-目标受众：算法学习者、竞赛选手、想看高质量题解的读者。
+| Metric | Value |
+| :---: | :---: |
+| 📝 Total Solutions | **4,232** |
+| 📂 Total Directories | **1,038** |
+| 🏟️ Platforms Covered | **10+** |
+| 📐 Algorithm Templates | **45** |
+| 🏅 VP Contests | **133** |
+| 🔥 CF Contests | **195** |
 
-## 📂 目录说明
+</div>
 
-仓库按照平台与比赛归类，示例目录结构：
+---
 
-```text
+## 📁 Project Structure
+
+```
 XCPC/
-├── 00 Codeforces/      # Codeforces 比赛代码 (Div.1 - Div.4)
-├── 01 Atcoder/         # Atcoder 比赛代码
-├── 02 Luogu/           # Luogu 题目与练习
-├── 04 HDU/             # HDU 题目
-├── 12 XCPC模板/        # 常用模板与工具代码
-├── .vscode/            # 编辑器配置
-└── README.md           # 项目说明
+├── 00 Codeforces/          # CF contest solutions (195 contests / 1050 problems)
+├── 01 Atcoder/             # AtCoder contest solutions (21 contests / 109 problems)
+├── 02 Luogu/               # Luogu topic-based training (208 problems)
+├── 03 Nowcoder/            # Nowcoder contests & training (756 problems)
+├── 04 HDU/                 # HDU / Dingba Programming (247 problems)
+├── 05 PTA/                 # PTA / GPLT / RuiKang (559 problems)
+├── 06 Virtual participation/ # ICPC/CCPC VP training (133 contests / 806 problems)
+├── 07 码蹄集/               # Matiji Cup / Baidu Star (170 problems)
+├── 08 蓝桥云/               # LanQiao Cup Provincial & National (187 problems)
+├── 09 Advanced Guide.../   # "Advanced Guide to Algorithm Competitions" (16 problems)
+├── 10 C++ with STL/        # STL topic exercises (74 problems)
+├── 11 Pre-NOI Check/       # NOI pre-check exercises (5 problems)
+└── 12 XCPC模板/            # Algorithm templates (45 templates)
 ```
 
-## 🔖 README 中应包含的信息（已改进）
+---
 
-- 项目简介与目录结构
-- 如何运行示例代码与编译（Windows / Linux / WSL）
-- 代码文件头注释规范（题目链接 / 标签 / 难度 / 状态）
-- 统计与标签维护说明（`problems.csv` 或 `tags.json`）
-- 如何贡献（提交规范、PR 流程、命名规则）
+## 🔍 Platform Breakdown
 
-## ⚙️ 快速使用说明
+### 🟣 Codeforces — 1,050 Problems / 195 Contests
 
-在 Windows 下使用 VS Code 和 MinGW 编译单个 C++ 文件示例：
+Covering **Round 790 – 1072**, **Edu 121 – 181**, and more.
 
-```bat
-:: 在仓库中打开终端并运行（示例）
-cd "00 Codeforces/1000 div2 01.22"
-g++ -std=c++17 -O2 A.cpp -o A.exe
-.\\A.exe
+| Contest Type | Count | Description |
+| :--- | :---: | :--- |
+| Div.2 | 72 | Primary competition level |
+| Div.3 | 54 | Foundational training |
+| Educational | 31 | Educational rounds |
+| Div.4 | 19 | Beginner level |
+| Div.1+2 | 3 | Combined advanced rounds |
+| Div.1 | 3 | Top-tier rounds |
+| Special | 13 | Global Round, CodeTON, Pinely, EPIC, Hello/Goodbye, etc. |
+
+### 🟢 AtCoder — 109 Problems / 21 Contests
+
+Covering **ABC 331 – 433** and **ARC 170**, etc.
+
+### 🟠 Nowcoder — 756 Problems
+
+| Series | Content |
+| :--- | :--- |
+| Weekly Contest | Round 1 – 91 (69 contests) |
+| Summer Training Camp 2024 | Camp 1 – 10 |
+| Winter Training Camp 2024 | Camp 1 – 6 |
+| May Day Training Camp 2024 | May Day Special |
+| Code Faster 2025 | Speed practice |
+| noob / Practice / Challenge / Entertainment | Multi-mode practice |
+| Provincial / League Contests | 2024 & 2025 Henan Freshman Contest |
+
+### 🔵 Virtual Participation — 806 Problems / 133 Contests
+
+VP records spanning **2024 – 2026**, covering historical ICPC / CCPC regionals, provincials, and invitationals.
+
+| Year | VP Contests | Highlighted Events |
+| :---: | :---: | :--- |
+| 2024 | 79 | CCPC Final, ICPC Regionals (Shenyang/Nanjing/Hangzhou/Chengdu), Provincial contests |
+| 2025 | 47 | ICPC Xi'an/Nanjing, CCPC Harbin/Chongqing, Multi-provincial & Invitational |
+| 2026 | 7 | ICPC Hong Kong/Shenyang, GPLT, etc. |
+
+### 🟡 Other Platforms
+
+| Platform | Problems | Description |
+| :--- | :---: | :--- |
+| **PTA** | 559 | PAT (Basic Level), GPLT (Group Programming Ladder Tournament), RuiKang |
+| **HDU** | 247 | Dingba Programming Super League 2024/2025, etc. |
+| **LanQiao Cloud** | 187 | LanQiao Cup CA/CB Provincial & National (2023–2025), Algorithm contests |
+| **Matiji** | 170 | Matiji Cup, Baidu Star, Elite Class |
+| **Luogu** | 208 | Topic-classified: Intro → Basics → Search → DP → Strings → Math → Data Structures → Graphs → Computational Geometry |
+
+---
+
+## 📐 Algorithm Template Library (45 Templates)
+
+> Path: `12 XCPC模板/`, with a complete PDF reference at [`XCPC.pdf`](12%20XCPC模板/XCPC.pdf).
+
+### Graph Theory (15)
+
+| Template | Template | Template |
+| :--- | :--- | :--- |
+| Dijkstra | Floyd | SPFA (Negative Cycle Detection) |
+| LCA | Topological Sort | Minimum Spanning Tree |
+| Tree Diameter | Heavy-Light Decomposition | Tarjan SCC |
+| Bipartite Graph | Cut Vertices | Difference Constraints |
+| Max Flow | 2-SAT | DSU on Tree |
+
+### Strings (8)
+
+| Template | Template | Template |
+| :--- | :--- | :--- |
+| KMP | Z-function | Manacher |
+| Aho-Corasick | Trie | Persistent Trie |
+| Suffix Automaton (SAM) | String Hashing | |
+
+### Mathematics (13)
+
+| Template | Template | Template |
+| :--- | :--- | :--- |
+| GCD & LCM | Linear Sieve | Euler's Totient Function |
+| Fermat's Little Theorem | Modular Inverse | Lucas' Theorem |
+| Combinations | Matrix Exponentiation | Linear Basis |
+| Ternary Search | Sprague-Grundy | Stirling Numbers |
+| Bézout's Identity | | |
+
+### Data Structures (9)
+
+| Template | Template | Template |
+| :--- | :--- | :--- |
+| Segment Tree | Dynamic Segment Tree | Segment Tree + Bitset |
+| Persistent Segment Tree | Binary Indexed Tree | Sparse Table |
+| Disjoint Set Union | Binary Heap | Mo's Algorithm |
+
+---
+
+## 📖 Luogu Topic Classification
+
+Luogu problems are organized into **13 topics**, inspired by *"Advanced Guide to Algorithm Competitions"*:
+
+| # | Topic | # | Topic |
+| :---: | :--- | :---: | :--- |
+| 1 | Introduction | 8 | Graph Theory (13 subtopics) |
+| 2 | Fundamental Algorithms | 9 | Computational Geometry |
+| 3 | Search | 10 | Miscellaneous |
+| 4 | Dynamic Programming (12 types) | — | — |
+| 5 | Strings | — | — |
+| 6 | Mathematics | — | — |
+| 7 | Data Structures | — | — |
+
+<details>
+<summary>📋 DP Subtopics (12 types)</summary>
+
+1. Linear DP
+2. Knapsack DP
+3. Interval DP
+4. Tree DP
+5. Bitmask DP
+6. Binary Lifting DP
+7. Data Structure Optimized DP
+8. Monotone Queue Optimized DP
+9. Convex Hull Trick DP
+10. Decision Monotonicity DP
+11. Digit DP
+12. Profile DP (Broken Profile)
+
+</details>
+
+<details>
+<summary>📋 Graph Theory Subtopics (13 types)</summary>
+
+1. Graph Representation & Traversal
+2. Shortest Paths
+3. Tree Problems
+4. Spanning Trees
+5. Topological Sort
+6. Difference Constraints
+7. Graph Connectivity
+8. Bipartite Graphs
+9. Network Flow
+10. 2-SAT
+11. Centroid Decomposition
+12. Virtual Tree
+13. Matrix-Tree Theorem
+
+</details>
+
+---
+
+## 📏 Naming & Organization Conventions
+
+- **Top-level directories**: Numbered by platform/source (`00` – `12`)
+- **Codeforces**: `{RoundID} {DivLevel} {Date}` — e.g., `1000 div2 01.22`
+- **AtCoder**: `{Date} {ContestID}` — e.g., `24.01.20 ABC337`
+- **VP**: `{Date} {Year} {Full Contest Name}` — e.g., `11.24 2024 ICPC Shenyang Regional`
+- **Per-contest files**: `A.cpp`, `B.cpp`, `C.cpp`… named by problem label
+
+---
+
+## 🛠️ Build & Run Locally
+
+> Requires `g++` (C++17 or later recommended).
+
+### Windows (PowerShell)
+
+```powershell
+cd "E:\XCPC\00 Codeforces\1000 div2 01.22"
+g++ -std=c++17 -O2 -pipe A.cpp -o A.exe
+.\A.exe
 ```
 
-若在 Linux / WSL：
+### Linux / WSL
 
 ```bash
 cd "00 Codeforces/1000 div2 01.22"
-g++ -std=c++17 -O2 A.cpp -o A
+g++ -std=c++17 -O2 -pipe A.cpp -o A
 ./A
 ```
 
-## 🧾 代码注释模板（建议）
+---
 
-在每个题目文件顶部加入统一注释，便于检索与统计，例如：
+## 📜 License
 
-```cpp
-// Problem: 1000A - Example Problem
-// Link: https://codeforces.com/contest/1000/problem/A
-// Difficulty: easy
-// Tags: math, implementation
-// Status: AC
-```
+This repository is primarily for personal competitive programming training and progress tracking. Continuously updated.
 
-将上述信息同步到问题数据库（`problems.csv` / `tags.json`），便于后续统计。
+<div align="center">
 
-## 📊 统计与维护建议
+*If you find this repo helpful, feel free to ⭐ star it!*
 
-- 使用 `problems.csv` 或 `tags.json` 存储题目信息（id, title, link, tags, difficulty, status）。
-- 编写一个小脚本生成统计（题目数、按标签分布、AC 率等），并将其纳入 CI（可选）。
-
-示例 `problems.csv` 列：
-
-```
-file,id,title,link,tags,difficulty,status
-00 Codeforces/1000 div2 01.22/A.cpp,1000A,Example,https://...,math;greedy,easy,AC
-```
-
-## 🤝 如何贡献
-
-贡献流程建议：
-
-1. Fork 仓库并新建分支 `feature/<platform>-<contest>-<id>`。
-2. 在对应目录添加代码文件，文件名请保持与题目编号/字母一致（示例：`1000A.cpp` 或 `A.cpp`）。
-3. 在文件头添加注释模板并在 `problems.csv`（或 `tags.json`）中添加条目。
-4. 提交 PR，描述改动与来源链接。
-
-代码风格建议：
-
-- 保持可读性，适当添加注释；竞赛模板可使用 `#include <bits/stdc++.h>`，但库/项目代码请避免全包含。
-
-## 🧰 模板目录说明
-
-`12 XCPC模板/` 中包含常用算法模板（图论、数据结构、字符串处理、数学工具等）。建议为每个模板添加：用途说明、复杂度、示例链接。
-
-## 📎 自动化（可选）
-
-- 建议添加 `scripts/`：包含统计脚本 `generate_stats.py`、批量编译脚本 `build_all.sh`。
-- 可在 GitHub Actions 中添加工作流，自动运行统计并在 PR 检查编译错误。
-
-## 📄 许可证
-
-本仓库默认使用 MIT 许可证（如需更改，请添加 LICENSE 文件）。
-
+</div>
