@@ -1,0 +1,6 @@
+privacy
+.omc/
+*.stackdump
+*.o
+*.exe
+*.out
